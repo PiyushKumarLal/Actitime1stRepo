@@ -14,4 +14,9 @@ public void testModifyCustomer()
 {
 	Reporter.log("Hi Git");
 }
+@Test
+public void testDeleteCustomer()
+{
+	Reporter.log("Hi Git");
+}
 }
